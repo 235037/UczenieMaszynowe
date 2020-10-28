@@ -1,4 +1,4 @@
-Left-weight,Left-distance,Right-weight,Right-distance,Balance_scale
+Left-weight,Left-distance,Right-weight,Right-distance,Class
 1.0, 1.0, 1.0, 1.0, B
 1.0, 1.0, 1.0, 2.0, R
 1.0, 1.0, 1.0, 3.0, R
